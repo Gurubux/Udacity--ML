@@ -1,4 +1,4 @@
-# Udacity--ML
+# Udacity-ML
 <h1><a href ='https://classroom.udacity.com/courses/ud120-india'>Udacity - Intro to Machine Learning</a></h1>
 <h3>Introduction to Machine Learning</h3>
 1.	Welcome to Machine Learning<br>

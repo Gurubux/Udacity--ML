@@ -12,22 +12,21 @@
 	<li>4. Car Training - Predict Speed of car based on the Steep and the rugedness of the road<br></li>
 
 </ul>
-<span>
+<div>
 	Input - feature<br>
 	Produce  - Labels<br>
-</span>
+</div>
+<!--<math xmlns="http://www.w3.org/1998/Math/MathML" display="block"> <mi>P</mi> <mo stretchy="false">(</mo> <msub> <mi>x</mi> <mi>i</mi> </msub> <mo>&#x2223;</mo> <mi>y</mi> <mo stretchy="false">)</mo> <mo>=</mo> <mfrac> <mn>1</mn> <msqrt> <mn>2</mn> <mi>&#x03C0;</mi> <msubsup> <mi>&#x03C3;</mi> <mi>y</mi> <mn>2</mn> </msubsup> </msqrt> </mfrac> <mi>exp</mi> <mo>&#x2061;</mo> <mrow> <mo>(</mo> <mrow> <mo>&#x2212;</mo> <mfrac> <mrow> <mo stretchy="false">(</mo> <msub> <mi>x</mi> <mi>i</mi> </msub> <mo>&#x2212;</mo> <msub> <mi>&#x03BC;</mi> <mi>y</mi> </msub> <msup> <mo stretchy="false">)</mo> <mn>2</mn> </msup> </mrow> <mrow> <mn>2</mn> <msubsup> <mi>&#x03C3;</mi> <mi>y</mi> <mn>2</mn> </msubsup> </mrow> </mfrac> </mrow> <mo>)</mo> </mrow> </math>-->
+<div>
+<a href='https://scikit-learn.org/stable/modules/naive_bayes.html#gaussian-naive-bayes'>Gaussian Naive Bayes</a><br>
+Formula - (1/sqrt(2πσ2_y)) * exp(-(x_i - μ_y)^2 / (2σ_y^2)) <br>
+</div>
 
-
-<math xmlns="http://www.w3.org/1998/Math/MathML" display="block"> <mi>P</mi> <mo stretchy="false">(</mo> <msub> <mi>x</mi> <mi>i</mi> </msub> <mo>&#x2223;</mo> <mi>y</mi> <mo stretchy="false">)</mo> <mo>=</mo> <mfrac> <mn>1</mn> <msqrt> <mn>2</mn> <mi>&#x03C0;</mi> <msubsup> <mi>&#x03C3;</mi> <mi>y</mi> <mn>2</mn> </msubsup> </msqrt> </mfrac> <mi>exp</mi> <mo>&#x2061;</mo> <mrow> <mo>(</mo> <mrow> <mo>&#x2212;</mo> <mfrac> <mrow> <mo stretchy="false">(</mo> <msub> <mi>x</mi> <mi>i</mi> </msub> <mo>&#x2212;</mo> <msub> <mi>&#x03BC;</mi> <mi>y</mi> </msub> <msup> <mo stretchy="false">)</mo> <mn>2</mn> </msup> </mrow> <mrow> <mn>2</mn> <msubsup> <mi>&#x03C3;</mi> <mi>y</mi> <mn>2</mn> </msubsup> </mrow> </mfrac> </mrow> <mo>)</mo> </mrow> </math>
-
-<span>
-<a href='https://scikit-learn.org/stable/modules/naive_bayes.html#gaussian-naive-bayes'>Gaussian Naive Bayes</a>
-(1/sqrt(2πσ2_y)) * exp(-(x_i - μ_y)^2 / (2σ_y^2)) <br>
-</span>
-
-<span>
+<div>
+	Conditional Probability - <img src=''> <br>
 <a href='https://dataaspirant.com/2017/02/06/naive-bayes-classifier-machine-learning/'>Examples of Naive Bayes</a>
-</span>
+</div>
+
 3.	SVM<br>
 4.	Success with Udacity Reviewers and Mentors<br>
 5.	Decision Trees<br>

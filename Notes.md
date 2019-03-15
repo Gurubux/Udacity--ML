@@ -23,7 +23,7 @@ Formula - (1/sqrt(2πσ2_y)) * exp(-(x_i - μ_y)^2 / (2σ_y^2)) <br>
 </div>
 
 <div>
-	Conditional Probability - <img src=''> <br>
+	Conditional Probability - <img src='Udacity-ML/images/Conditional Probability.png'> <br>
 <a href='https://dataaspirant.com/2017/02/06/naive-bayes-classifier-machine-learning/'>Examples of Naive Bayes</a>
 </div>
 
